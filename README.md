@@ -5,3 +5,4 @@ The structure will be based on:
 - Creation of the CMakeLists
 - Building of the Detector Geometry / Physics Lists / main()
 - Json implementation
+Starting wit fabio
